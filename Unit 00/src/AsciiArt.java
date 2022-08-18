@@ -1,9 +1,9 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
-//Class -
+//Name - Rohan Desai
+//Date - 8/18
+//Class - APCSA P2
 //Lab  -
 
 public class AsciiArt
