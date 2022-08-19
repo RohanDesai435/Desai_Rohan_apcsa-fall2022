@@ -1,4 +1,4 @@
-//© A+ Computer Science
+//ï¿½ A+ Computer Science
 //www.apluscompsci.com
 
 //Name -
@@ -18,21 +18,35 @@ public class StarsAndStripes
 
    public void printTwentyStars()
    {
+	   System.out.println("***************************");
    }
 
    public void printTwentyDashes()
    {
+	   System.out.println("--------------------------");
    }
 
    public void printTwoBlankLines()
    {
+	   System.out.println("                        ");
+	   System.out.println("                        ");
    }
    
    public void printASmallBox()
    {	
+	   System.out.println("       -------------                 ");
+	   System.out.println("      |              |    ");
+	   System.out.println("       -------------                 ");
    }
  
    public void printABigBox()
-   { 	
+   { 
+	   System.out.println("       -------------                 ");
+	   System.out.println("      |              |    ");
+	   System.out.println("      |              |    ");
+	   System.out.println("      |              |    ");
+	   System.out.println("      |              |    ");
+	   System.out.println("      |              |    ");
+	   System.out.println("       -------------                 ");
    }   
 }
